@@ -13,6 +13,10 @@ for i, variable in enumerate(testlist):
 
 
 test for git commit
-
+git push -am 'commit_message'
 
 git for synch
+
+
+git pull
+
